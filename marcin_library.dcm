@@ -1,1 +1,8 @@
-/home/dymczykm/kicad/marcin_library.dcm
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CXA1081
+D Sony CXA1081
+K CXA1081, KA9201
+$ENDCMP
+#
+#End Doc Library
