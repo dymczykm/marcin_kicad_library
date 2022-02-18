@@ -4,7 +4,9 @@ A KiCAD library used by my own projects.
 
 Symbols:
 - CXA1081
+- DIN41612 Type C connector 3x32 (96pin)
 - LT3094xMSE
+- LXT902PC
 - Traco TMR6
 
 Footprints:
