@@ -7,6 +7,7 @@ Symbols:
 - DIN41612 Type C connector 3x32 (96pin)
 - LT3094xMSE
 - LXT902PC
+- T7220A
 - Traco TMR6
 
 Footprints:
