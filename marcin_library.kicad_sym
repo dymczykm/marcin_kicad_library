@@ -755,7 +755,7 @@
     )
   )
   (symbol "LXT902PC" (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at -15.24 1.27 0)
+    (property "Reference" "U" (id 0) (at -16.51 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LXT902PC" (id 1) (at 0 -16.51 0)
