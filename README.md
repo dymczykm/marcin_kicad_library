@@ -9,6 +9,7 @@ Symbols:
 - LT3094xMSE
 - LXT902PC
 - T7220A
+- THB16J04 (Delta, AUI pulse transformer)
 - Traco TMR6
 
 Footprints:
