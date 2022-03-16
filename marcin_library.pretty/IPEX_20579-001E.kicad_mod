@@ -1,6 +1,6 @@
 (footprint "IPEX_20579-001E" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 622A7C62)
+  (tedit 62326993)
   (attr through_hole)
   (fp_text reference "REF**" (at -0.068 -1.9064) (layer "F.SilkS")
     (effects (font (size 0.64 0.64) (thickness 0.15)))

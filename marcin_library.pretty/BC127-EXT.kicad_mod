@@ -1,6 +1,6 @@
 (footprint "BC127-EXT" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 622A7FD1)
+  (tedit 62326927)
   (descr "BC127 BLUETOOTH 4.0 AUDIO MODULE")
   (tags "BC127 BLUETOOTH 4.0 AUDIO MODULE")
   (attr smd)
@@ -138,4 +138,9 @@
     (solder_mask_margin 0.1016) (tstamp b9808a34-010f-4b17-a061-e7a1a2fdcf61))
   (pad "54" smd rect (at -4.79806 -9.34974 90) (size 1.50622 0.59944) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.1016) (tstamp 25ada721-670a-4020-ae0b-77410c4e375a))
+  (model "/Users/dymczykm/Documents/elektronika/marcin_kicad_library/marcin_library_3d_models/BC127-EXT_1.step"
+    (offset (xyz -5.9 -9 0.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
