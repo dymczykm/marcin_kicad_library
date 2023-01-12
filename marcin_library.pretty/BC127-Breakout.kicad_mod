@@ -1,0 +1,146 @@
+(footprint "BC127-Breakout" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole)
+  (fp_text reference "J**" (at 0 -0.5 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 3c6800ca-d095-47b4-acb7-4be04a7efea1)
+  )
+  (fp_text value "BC127-Breakout" (at 0 1 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 556e60d6-26de-4098-86b6-822c9a65715e)
+  )
+  (fp_rect (start -12 -16) (end 12 16) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 79b54999-a931-419f-baa2-e59c9388697e))
+  (fp_rect (start -12.1 -16.1) (end 12.1 16.1) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 6cb0e3f2-09e6-49b1-a313-5b5cc8409e34))
+  (fp_line (start -12.065 -10.16) (end 12.065 -10.16) (layer "F.Fab") (width 0.1) (tstamp 40dec3b2-aa82-4b93-aa9c-5a08acd8a462))
+  (pad "1" thru_hole oval (at -10 -9.525) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp cdcac746-ec75-406f-82b6-da3c5c8df90e))
+  (pad "2" thru_hole oval (at -10 -8.255) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp bd9586a4-94f0-4579-949b-edce7911762c))
+  (pad "3" thru_hole oval (at -10 -6.985 90) (size 1 1.2) (drill 0.65) (layers *.Cu *.Mask) (tstamp 4088a510-a6b9-409d-a463-9c14adf76cc9))
+  (pad "4" thru_hole oval (at -10 -5.715) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 59a8926a-cf8b-4cf9-8e41-402f5eee2e51))
+  (pad "5" thru_hole oval (at -10 -4.445 90) (size 1 1.2) (drill 0.65) (layers *.Cu *.Mask) (tstamp 0d06a6c4-0254-4842-b74a-bc0a5f8e737d))
+  (pad "6" thru_hole oval (at -10 -3.175) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 452c3ec0-5f16-48fc-a909-dc5342a2a269))
+  (pad "7" thru_hole oval (at -10 -1.905) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp c1188a45-40ae-4627-a7e5-28580d85ab00))
+  (pad "8" thru_hole oval (at -10 -0.635) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp e857d33d-a7c2-40c1-8699-56b5de3ec042))
+  (pad "9" thru_hole oval (at -10 0.635) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 30ab1d3b-4704-47de-8c06-ab5087e9c85d))
+  (pad "10" thru_hole oval (at -10 1.905) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp e4f5bc2f-ee4f-48da-b9bd-33db5440f0de))
+  (pad "11" thru_hole oval (at -10 3.175) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 9258acbb-89fd-40c3-8a14-01c48359cb17))
+  (pad "12" thru_hole oval (at -10 4.445) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 9c2738fb-757f-47e1-a6f8-8e440d606f55))
+  (pad "13" thru_hole oval (at -10 5.715) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 1d00880f-952b-4dd8-b3e4-12e8ab32cb16))
+  (pad "14" thru_hole oval (at -10 6.985) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 02443999-6166-45bd-b1e3-0532ec54210f))
+  (pad "15" thru_hole oval (at -10 8.255) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 7020b84e-4748-4f74-bab6-b793d012a2f8))
+  (pad "16" thru_hole oval (at -10 9.525) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 7a589b93-e36b-4a9c-b2ce-965bc511536b))
+  (pad "17" thru_hole oval (at -10 10.795) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 3c4ec328-deba-4fb1-ba33-fd3086a04e8f))
+  (pad "18" thru_hole oval (at -10 12.065) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 7bc8e6a8-13bd-44db-a0cc-c5414e7d7783))
+  (pad "19" thru_hole oval (at -10 13.335) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp ca8307ec-5f2a-41bd-8e06-742ba561da5c))
+  (pad "20" thru_hole oval (at -10 14.605) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 888e7818-3684-49ba-a97d-47bd57a6383a))
+  (pad "21" thru_hole oval (at -6.985 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 0fe00201-fcd7-47dc-87a8-5259d6dd5eb3))
+  (pad "22" thru_hole oval (at -5.715 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp c2c7c4fa-549f-4de2-a3e2-0dbe567c6b4b))
+  (pad "23" thru_hole oval (at -4.445 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 15e59076-94e4-4b4d-b89a-561122f2ed54))
+  (pad "24" thru_hole oval (at -3.175 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 9ffb1133-6dda-42df-b57c-55e40a3f1767))
+  (pad "25" thru_hole oval (at -1.905 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 76046ad3-a21b-4127-bf3c-7331b9c71a16))
+  (pad "26" thru_hole oval (at -0.635 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 55e8e54c-03f0-4d44-bc36-12e5c2c1a767))
+  (pad "27" thru_hole oval (at 0.635 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp dcabc500-c535-4e4d-b134-b44280c5cb7f))
+  (pad "28" thru_hole oval (at 1.905 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 1456811e-9698-4620-af79-a803ae67cf16))
+  (pad "29" thru_hole oval (at 3.175 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 85535ab5-3e81-4844-9e94-5f8597ebffc1))
+  (pad "30" thru_hole oval (at 4.445 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 4838e1b5-6723-4133-adfd-34e8a1e95364))
+  (pad "31" thru_hole oval (at 5.715 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 0f414090-a066-40f8-9058-98a61e6e2b46))
+  (pad "32" thru_hole oval (at 10 14.605) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 8b3d36bf-6b9d-4539-8b98-a3c2a42ea471))
+  (pad "33" thru_hole oval (at 10 13.335) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp b13b2982-3a4e-4e55-b7c5-6b5652d96dd0))
+  (pad "34" thru_hole oval (at 10 12.065) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp f0151f87-9dea-4b5e-bb11-437bf9e277bc))
+  (pad "35" thru_hole oval (at 10 10.795) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 39bcd1b0-24ec-4362-8d09-e5c0ba83df01))
+  (pad "36" thru_hole oval (at 10 9.525) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp f1dc003c-8dd8-4349-9a59-63610678e5f2))
+  (pad "37" thru_hole oval (at 10 8.255) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp d68c0460-8c36-40ab-8a47-2d85f1764044))
+  (pad "38" thru_hole oval (at 10 6.985) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 65d3f5e4-cbaa-4f8b-be0e-b35ae0ec6a7d))
+  (pad "39" thru_hole oval (at 10 5.715) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 611dd91c-2bc8-4c2c-8c82-0c377404345f))
+  (pad "40" thru_hole oval (at 10 4.445) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 9953751f-2e67-4158-adcb-8102723e6e50))
+  (pad "41" thru_hole oval (at 10 3.175) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 346eee0a-885a-45ec-97c8-e84ca49c6368))
+  (pad "42" thru_hole oval (at 10 1.905) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 8513dab9-c1b5-4b2b-a306-0a370cb7f098))
+  (pad "43" thru_hole oval (at 10 0.635) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 595e1fbc-afde-416f-bac5-62cb13041f65))
+  (pad "44" thru_hole oval (at 10 -0.635) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp cc083c29-28d6-4a10-b8a6-1f371b3f09e6))
+  (pad "45" thru_hole oval (at 10 -1.905) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 0d1fe231-3d10-443c-bd04-5db197b03402))
+  (pad "46" thru_hole oval (at 10 -3.175) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 347d89a6-8b8b-4ef1-a83e-fadabb2b947c))
+  (pad "47" thru_hole oval (at 10 -4.445) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 771bbddc-00fa-4359-b950-d74f4a1a1e20))
+  (pad "48" thru_hole oval (at 10 -5.715) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 8ed44445-061b-4526-a8d9-160374f8da4a))
+  (pad "49" thru_hole oval (at 10 -6.985) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp ff57382a-5556-4acc-b62e-e9d667d486e5))
+  (pad "50" thru_hole oval (at 10 -8.255) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 069364a9-b7ab-44db-8f42-fe03be2021c0))
+  (pad "51" thru_hole oval (at 10 -9.525) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 3d179d65-5a4c-4c71-a6b7-e6dbeab725cb))
+  (pad "X" thru_hole oval (at 6.985 14 90) (size 1.2 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 7d89f830-ae94-4a9d-af27-30fca5698804))
+  (zone (net 0) (net_name "") (layers F&B.Cu "F.Fab") (tstamp 04ea9746-418d-49d5-8080-b2140bb3e37b) (hatch edge 0.508)
+    (connect_pads (clearance 0))
+    (min_thickness 0.254)
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints not_allowed))
+    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 11.938 -6.35)
+        (xy -2.413 -6.35)
+        (xy -2.413 -16.002)
+        (xy 11.938 -16.002)
+      )
+    )
+  )
+  (group "" (id 323a1e77-09c3-479e-9898-c924b16cc1e7)
+    (members
+      069364a9-b7ab-44db-8f42-fe03be2021c0
+      0d1fe231-3d10-443c-bd04-5db197b03402
+      346eee0a-885a-45ec-97c8-e84ca49c6368
+      347d89a6-8b8b-4ef1-a83e-fadabb2b947c
+      39bcd1b0-24ec-4362-8d09-e5c0ba83df01
+      3d179d65-5a4c-4c71-a6b7-e6dbeab725cb
+      595e1fbc-afde-416f-bac5-62cb13041f65
+      611dd91c-2bc8-4c2c-8c82-0c377404345f
+      65d3f5e4-cbaa-4f8b-be0e-b35ae0ec6a7d
+      771bbddc-00fa-4359-b950-d74f4a1a1e20
+      8513dab9-c1b5-4b2b-a306-0a370cb7f098
+      8b3d36bf-6b9d-4539-8b98-a3c2a42ea471
+      8ed44445-061b-4526-a8d9-160374f8da4a
+      9953751f-2e67-4158-adcb-8102723e6e50
+      b13b2982-3a4e-4e55-b7c5-6b5652d96dd0
+      cc083c29-28d6-4a10-b8a6-1f371b3f09e6
+      d68c0460-8c36-40ab-8a47-2d85f1764044
+      f0151f87-9dea-4b5e-bb11-437bf9e277bc
+      f1dc003c-8dd8-4349-9a59-63610678e5f2
+      ff57382a-5556-4acc-b62e-e9d667d486e5
+    )
+  )
+  (group "" (id 46c3673f-0feb-4773-9e41-dc65dd3a8088)
+    (members
+      0f414090-a066-40f8-9058-98a61e6e2b46
+      0fe00201-fcd7-47dc-87a8-5259d6dd5eb3
+      1456811e-9698-4620-af79-a803ae67cf16
+      15e59076-94e4-4b4d-b89a-561122f2ed54
+      4838e1b5-6723-4133-adfd-34e8a1e95364
+      55e8e54c-03f0-4d44-bc36-12e5c2c1a767
+      76046ad3-a21b-4127-bf3c-7331b9c71a16
+      7d89f830-ae94-4a9d-af27-30fca5698804
+      85535ab5-3e81-4844-9e94-5f8597ebffc1
+      9ffb1133-6dda-42df-b57c-55e40a3f1767
+      c2c7c4fa-549f-4de2-a3e2-0dbe567c6b4b
+      dcabc500-c535-4e4d-b134-b44280c5cb7f
+    )
+  )
+  (group "" (id 708c481b-bc7c-4c33-a07b-ac2dd1792d66)
+    (members
+      02443999-6166-45bd-b1e3-0532ec54210f
+      0d06a6c4-0254-4842-b74a-bc0a5f8e737d
+      1d00880f-952b-4dd8-b3e4-12e8ab32cb16
+      30ab1d3b-4704-47de-8c06-ab5087e9c85d
+      3c4ec328-deba-4fb1-ba33-fd3086a04e8f
+      4088a510-a6b9-409d-a463-9c14adf76cc9
+      452c3ec0-5f16-48fc-a909-dc5342a2a269
+      59a8926a-cf8b-4cf9-8e41-402f5eee2e51
+      7020b84e-4748-4f74-bab6-b793d012a2f8
+      7a589b93-e36b-4a9c-b2ce-965bc511536b
+      7bc8e6a8-13bd-44db-a0cc-c5414e7d7783
+      888e7818-3684-49ba-a97d-47bd57a6383a
+      9258acbb-89fd-40c3-8a14-01c48359cb17
+      9c2738fb-757f-47e1-a6f8-8e440d606f55
+      bd9586a4-94f0-4579-949b-edce7911762c
+      c1188a45-40ae-4627-a7e5-28580d85ab00
+      ca8307ec-5f2a-41bd-8e06-742ba561da5c
+      cdcac746-ec75-406f-82b6-da3c5c8df90e
+      e4f5bc2f-ee4f-48da-b9bd-33db5440f0de
+      e857d33d-a7c2-40c1-8699-56b5de3ec042
+    )
+  )
+)
