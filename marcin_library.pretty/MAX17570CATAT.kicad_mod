@@ -32,9 +32,9 @@
   (pad "6" smd rect (at 0.25 -1.0668) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a3cde2ae-9360-4eae-a601-79f2f5873303))
   (pad "7" smd rect (at -0.25 -1.0668) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aa493318-6104-40f5-bfb5-8acd34dbabba))
   (pad "8" smd rect (at -0.75 -1.0668) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f1ed449c-9391-4303-84b3-0dac37bcb09b))
-  (model "MAX17570CATA+T.stp"
+  (model "/Users/dymczykm/Documents/elektronika/marcin_kicad_library/marcin_library_3d_models/MAX17570CATA+T.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -90))
   )
 )
